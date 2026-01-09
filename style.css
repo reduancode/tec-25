@@ -81,10 +81,12 @@ nav a:hover{
 .title{
   text-align:center;
   margin-bottom:20px;
+  color: rgb(233, 175, 69);
 }
 
 .text{
   text-align:center;
+  color: white;
 }
 
 
